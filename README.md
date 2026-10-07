@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Caio%20Emanoel%20Silva&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%7C%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%7C%20CCNA&descAlignY=60&descSize=18" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caio+%F0%9F%91%8B;Backend+%E2%9C%A6+APIs+%E2%9C%A6+Docker+%E2%9C%A6+Cloud;Do+cabo+de+rede+ao+deploy+na+AWS+%F0%9F%9A%80;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+o+Caio+%F0%9F%91%8B;Backend+%E2%9C%A6+APIs+%E2%9C%A6+Docker+%E2%9C%A6+Cloud;Do+cabo+de+rede+ao+deploy+na+AWS;Sempre+aprendendo%2C+sempre+construindo" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,12 +19,12 @@
 
 ---
 
-## 👨‍💻 Quem sou eu
+## Quem sou eu
 
 ```python
 class Caio:
     nome        = "Caio Emanoel Silva"
-    cidade      = "Salto, SP 🇧🇷"
+    cidade      = "Salto, SP"
     formacao    = [
         "Ciência da Computação @ IFSP Salto (formatura prevista: 2027)",
         "Técnico em Informática @ IFNMG",
@@ -39,14 +39,14 @@ class Caio:
         return "Construindo, quebrando, consertando e aprendendo ☕"
 ```
 
-- 🏢 Na **Infinitech Jr** (empresa júnior) desenvolvo soluções para clientes reais e participo de apresentações e propostas comerciais.
-- 🏛️ No **estágio na Prefeitura de Itu** (Secretaria da Educação), atuo com administração de redes, suporte ao desenvolvimento e apoio no laboratório de informática.
-- 🏆 Me preparo para **programação competitiva** nas horas vagas.
-- 🌐 Vim de **redes e SO**, então entendo o caminho que o dado percorre da requisição até o servidor.
+- Na **Infinitech Jr** (empresa júnior) desenvolvo soluções para clientes reais e participo de apresentações e propostas comerciais.
+- No **estágio na Prefeitura de Itu** (Secretaria da Educação), atuo com administração de redes, suporte ao desenvolvimento e apoio no laboratório de informática.
+- Me preparo para **programação competitiva** nas horas vagas.
+- Vim de **redes e SO**, então entendo o caminho que o dado percorre da requisição até o servidor.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 ### Linguagens
 <p>
@@ -69,7 +69,7 @@ class Caio:
 </p>
 
 <details>
-<summary><b>📊 Mapa de conhecimentos (clique para abrir)</b></summary>
+<summary><b>Mapa de conhecimentos (clique para abrir)</b></summary>
 <br/>
 
 | Área | O que eu uso | Onde aparece |
@@ -88,34 +88,34 @@ class Caio:
 
 ---
 
-## 🧭 Minha trajetória
+## Trajetória
 
 ```mermaid
 flowchart LR
-    A["🎓 Técnico em Informática<br/>IFNMG"] --> B["🌐 Monitor de<br/>Redes e SO"]
-    B --> C["📜 CCNA"]
-    C --> D["💼 FullStack Dev<br/>Infinitech Jr"]
-    D --> E["🏫 Ciência da Computação<br/>IFSP Salto"]
-    E --> F["🏛️ Estagiário de TI<br/>Prefeitura de Itu"]
+    A["Técnico em Informática<br/>IFNMG"] --> B["Monitor de<br/>Redes e SO"]
+    B --> C["CCNA"]
+    C --> D["FullStack Dev<br/>Infinitech Jr"]
+    D --> E["Ciência da Computação<br/>IFSP Salto"]
+    E --> F["Estagiário de TI<br/>Prefeitura de Itu"]
     style F fill:#2ea44f,color:#fff,stroke:#2ea44f
 ```
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 | Projeto | O que é | Tecnologias |
 |---|---|---|
-| 🧮 [**escalonador-de-processos**](https://github.com/C4103M/escalonador-de-processos) | Simulador de escalonador de processos com o algoritmo **Round Robin** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
-| 📄 [**indexador-pdf**](https://github.com/C4103M/indexador-pdf) | App desktop para organizar, categorizar e pesquisar PDFs de forma inteligente | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flet](https://img.shields.io/badge/-Flet-02569B?style=flat-square) |
-| 💬 [**livechat-furia**](https://github.com/C4103M/livechat-furia) | Ambiente interativo de fãs com chat ao vivo, portal de notícias e mensagens diretas | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
-| 🧩 [**quiz-app**](https://github.com/C4103M/quiz-app) | Projeto de conclusão do curso técnico: jogo web que ajuda a aprender informática | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) |
+| [**escalonador-de-processos**](https://github.com/C4103M/escalonador-de-processos) | Simulador de escalonador de processos com o algoritmo **Round Robin** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat-square) |
+| [**indexador-pdf**](https://github.com/C4103M/indexador-pdf) | App desktop para organizar, categorizar e pesquisar PDFs de forma inteligente | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Flet](https://img.shields.io/badge/-Flet-02569B?style=flat-square) |
+| [**livechat-furia**](https://github.com/C4103M/livechat-furia) | Ambiente interativo de fãs com chat ao vivo, portal de notícias e mensagens diretas | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) |
+| [**quiz-app**](https://github.com/C4103M/quiz-app) | Projeto de conclusão do curso técnico: jogo web que ajuda a aprender informática | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square) |
 <!-- TROQUE: adicione aqui o repositório da API da oficina (Spring + Docker + JWT) -->
-<!-- | 🔧 [**sistema-oficina**](https://github.com/C4103M/NOME-DO-REPO) | API REST para gestão de oficina mecânica, com autenticação JWT e containers | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) | -->
+<!-- | [**sistema-oficina**](https://github.com/C4103M/NOME-DO-REPO) | API REST para gestão de oficina mecânica, com autenticação JWT e containers | ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) | -->
 
 ---
 
-## 🔭 Em foco agora
+## Em foco agora
 
 - [x] Modelagem UML e arquitetura em camadas de uma API Spring
 - [x] Containerização do ambiente com **Docker**
@@ -127,7 +127,7 @@ flowchart LR
 
 ---
 
-## 📈 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
 
@@ -140,7 +140,7 @@ flowchart LR
 
 ---
 
-## 🤝 Vamos conversar?
+## Vamos conversar?
 
 Se curtiu algum projeto, quer trocar ideia sobre APIs, redes, cloud ou ML, ou precisa de um dev para uma ideia, fale comigo:
 
